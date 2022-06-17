@@ -26,6 +26,8 @@
 body {
   font-family: "Outfit", sans-serif;
   background-color: var(--Light-gray);
+}
+main {
   min-height: 100vh;
   display: flex;
   align-items: center;
